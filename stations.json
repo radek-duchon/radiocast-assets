@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Český rozhlas Radiožurnál",
+		"url": "https://rozhlas.stream/radiozurnal_mp3_128.mp3",
+		"country": "cz",
+		"genre": ["00's Music"]
+	},
+	{
+		"name": "Český rozhlas Radiožurnál Sport",
+		"url": "https://rozhlas2.stream/sport_mp3_256.mp3",
+		"country": "cz",
+		"genre": ["Sport"]
+	},
+	{
+		"name": "Test",
+		"url": "https://rozhlas.stream/radiozurnal_mp3_128.mp3",
+		"country": "us",
+		"genre": ["Test"]
+	}
+]
