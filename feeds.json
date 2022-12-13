@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Zive.cz",
+        "url": "https://www.zive.cz/rss/sc-47/",
+        "country": "cz",
+        "category": [
+            "Computers"
+        ]
+    },
+    {
+        "name": "Zprávy iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
+        "country": "cz",
+        "category": [
+            "News"
+        ]
+    },
+    {
+        "name": "Sport iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=sport",
+        "country": "cz",
+        "category": [
+            "Sport"
+        ]
+    },
+    {
+        "name": "Fotbal iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=fotbalh",
+        "country": "cz",
+        "category": [
+            "Footbal",
+            "Sport"
+        ]
+    },
+    {
+        "name": "Hokej iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=hokejh",
+        "country": "cz",
+        "category": [
+            "Hockey",
+            "Sport"
+        ]
+    },
+    {
+        "name": "Ekonomika iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=ekonomikah",
+        "country": "cz",
+        "category": [
+            "Economics"
+        ]
+    },
+    {
+        "name": "Kultura iDNES.cz",
+        "url": "https://servis.idnes.cz/rss.aspx?c=kultura",
+        "country": "cz",
+        "category": [
+            "Culture"
+        ]
+    }
+]
