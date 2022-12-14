@@ -3,18 +3,24 @@
 		"name": "Český rozhlas Radiožurnál",
 		"url": "https://rozhlas.stream/radiozurnal_mp3_128.mp3",
 		"country": "cz",
-		"genre": ["00's Music"]
+		"genre": [
+			"00's Music"
+		]
 	},
 	{
 		"name": "Český rozhlas Radiožurnál Sport",
 		"url": "https://rozhlas2.stream/sport_mp3_256.mp3",
 		"country": "cz",
-		"genre": ["Sport"]
+		"genre": [
+			"Sport"
+		]
 	},
 	{
-		"name": "Test",
-		"url": "https://rozhlas.stream/radiozurnal_mp3_128.mp3",
-		"country": "us",
-		"genre": ["Test", "Sport"]
+		"name": "Radio Impuls",
+		"url": "http://icecast5.play.cz/impuls128.mp3",
+		"country": "cz",
+		"genre": [
+			"Pop"
+		]
 	}
 ]
