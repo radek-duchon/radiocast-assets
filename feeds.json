@@ -1,6 +1,6 @@
 [
     {
-        "name": "Zive.cz",
+        "name": "Živě.cz",
         "url": "https://www.zive.cz/rss/sc-47/",
         "country": "cz",
         "category": [
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Zprávy iDNES.cz",
+        "name": "iDNES.cz - Zprávy",
         "url": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
         "country": "cz",
         "category": [
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "Sport iDNES.cz",
+        "name": "iDNES.cz - Sport",
         "url": "https://servis.idnes.cz/rss.aspx?c=sport",
         "country": "cz",
         "category": [
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "Fotbal iDNES.cz",
+        "name": "iDNES.cz - Fotbal",
         "url": "https://servis.idnes.cz/rss.aspx?c=fotbalh",
         "country": "cz",
         "category": [
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "name": "Hokej iDNES.cz",
+        "name": "iDNES.cz - Hokej",
         "url": "https://servis.idnes.cz/rss.aspx?c=hokejh",
         "country": "cz",
         "category": [
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "name": "Ekonomika iDNES.cz",
+        "name": "iDNES.cz - Ekonomika",
         "url": "https://servis.idnes.cz/rss.aspx?c=ekonomikah",
         "country": "cz",
         "category": [
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "name": "Kultura iDNES.cz",
+        "name": "iDNES.cz - Kultura",
         "url": "https://servis.idnes.cz/rss.aspx?c=kultura",
         "country": "cz",
         "category": [
