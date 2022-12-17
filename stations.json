@@ -22,5 +22,13 @@
 		"genre": [
 			"Pop"
 		]
+	},
+	{
+		"name": "Rock FM",
+		"url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+		"country": "es",
+		"genre": [
+			"Rock"
+		]
 	}
 ]
