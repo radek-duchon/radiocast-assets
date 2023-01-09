@@ -3,7 +3,7 @@
 		"name": "Český rozhlas Radiožurnál",
 		"url": "https://rozhlas.stream/radiozurnal_mp3_128.mp3",
 		"country": "cz",
-		"genre": [
+		"category": [
 			"00's Music"
 		]
 	},
@@ -11,7 +11,7 @@
 		"name": "Český rozhlas Radiožurnál Sport",
 		"url": "https://rozhlas2.stream/sport_mp3_256.mp3",
 		"country": "cz",
-		"genre": [
+		"category": [
 			"Sport"
 		]
 	},
@@ -19,7 +19,7 @@
 		"name": "Rádio Impuls",
 		"url": "https://icecast5.play.cz/impuls128.mp3",
 		"country": "cz",
-		"genre": [
+		"category": [
 			"Pop"
 		]
 	},
@@ -27,7 +27,7 @@
 		"name": "Rock FM",
 		"url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
 		"country": "es",
-		"genre": [
+		"category": [
 			"Rock"
 		]
 	}
